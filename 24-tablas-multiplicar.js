@@ -5,3 +5,5 @@ for (let tabla = 1; tabla <= 10; tabla++){
         resultados.push(tabla + "x" + j + "=" + (tabla*j))
     }
 }
+
+console.log(resultados)
